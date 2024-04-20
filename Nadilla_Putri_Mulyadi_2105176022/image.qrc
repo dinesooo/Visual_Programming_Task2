@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="tugas2">
+    <file>pict/cappuccino.png</file>
+    <file>pict/espresso.png</file>
+    <file>pict/flat white.png</file>
+    <file>pict/ICON.png</file>
+    <file>pict/KM.png</file>
+    <file>pict/unmul.png</file>
+  </qresource>
+</RCC>
